@@ -14,4 +14,4 @@ To know more about this game, you can click [here](https://www.bilibili.com/vide
     
     4)Fly further to get a higher score!
 
-![image](https://github.com/wang-weishuai/Flappy-Bird/edit/main/image/flappybird.png)
+![image](https://github.com/wang-weishuai/Flappy-Bird/blob/main/image/flappybird.png)
