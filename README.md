@@ -4,6 +4,8 @@ This is my first python game based on **hardware**!
 
 To know more about this game, you can click [here](https://www.bilibili.com/video/BV1WV41167Aa?p=20) to watch our videos!
 
+![image](https://github.com/wang-weishuai/Flappy-Bird/blob/main/image/flappybird2.png)
+
 ### Features
 
     1)You can control your bird with VOICE!
